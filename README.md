@@ -12,7 +12,7 @@ although a vending machine with Kit-Kat could become a bad habit and... a health
 
 | Currently learning | Languages | Tools |
 | :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,figma" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,py" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,figma" /></a> |
 
 <h2 align="right"> Contact </h2>
   <p align="right">
