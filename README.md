@@ -1,16 +1,16 @@
-<h1 align="center"> Hello, James here! :upside_down_face: </h1>
-<p align="center"> I am currently a first year student in web development.  </p>
-<h6 align="center"> <i>Looking for a place to learn, discover and put my skills to good use. </i> </h6>
+<h1 align="center"> Salutation l'étranger, moi c'est James ! :upside_down_face: </h1>
+<p align="center">   </p>
+<h6 align="center"> <i>Je suis à la recherche d'un endroit pour découvrir, apprendre et mettre mes connaissances en oeuvre ! </i> </h6>
+
+<p align="center"> Je suis un développeur web étudiant à l'école LaPlateforme. 
+Je suis une personne très curieuse, avec une faim d'apprendre immense et sans cesse à la recherche de partages
+d'expériences et de connaissances. </p>
 
 <img src="https://res.cloudinary.com/dahuus6so/image/upload/v1731923430/road_iorjzt.jpg">
 
-<!--  I'm always in a good mood with a quirky humor, i can fit in any place. If you're lucky enough you might hear me sing <i>(or try)</i>. 
-Like a cat who chooses its house, i'll always comeback to satisfy my hunger for knowledge. Not a big fan of the coffee machine,... 
-although a vending machine with Kit-Kat could become a bad habit and... a health problem. -->
+## Compétences
 
-## Knowledge
-
-| Currently learning | Languages | Tools |
+| En cours | Langages | Outils |
 | :---: | :---: | :---: |
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,py" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,figma" /></a> |
 
