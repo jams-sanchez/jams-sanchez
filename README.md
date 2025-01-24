@@ -16,6 +16,6 @@ d'expériences et de connaissances. </p>
 
 <h2 align="right"> Contact </h2>
   <p align="right">
-    <a href="https://www.linkedin.com/in/james-sanchez-3a8a80332/">
+    <a href="https://www.linkedin.com/in/jams-sanchez">
     <img src="https://skillicons.dev/icons?i=linkedin" />
     </a></p>
