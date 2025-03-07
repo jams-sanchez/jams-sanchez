@@ -12,7 +12,7 @@ d'expériences et de connaissances. </p>
 
 | En cours | Langages | Outils |
 | :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,mysql" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,py" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,figma" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,py,php,mysql" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,figma" /></a> |
 
 <h2 align="right"> Contact </h2>
   <p align="right">
